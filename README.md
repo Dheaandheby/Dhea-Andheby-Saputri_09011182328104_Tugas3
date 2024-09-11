@@ -47,8 +47,13 @@ Tugas 3
 
 8. Ubahkan kepemilikan sub direktori februari sehingga user dan group hanya dapat melakukan read, dan cobalah untuk membuat direktori baru haha pada sub direktori februari.
 
+![Screenshot from 2024-09-11 09-21-42](https://github.com/user-attachments/assets/74134335-8934-4ac7-a04e-2e6af964b756)
+
 9. Modifikasi umask dari file dataku pada sub direktori januari menjadi 027 dan berapakan nilai default-nya?
+
+![Screenshot from 2024-09-11 09-15-08](https://github.com/user-attachments/assets/1ece58cc-d56e-4d73-938d-2fac06b454fd)
 
 10. Buatlah link dari file dataku ke file dataku.ini dan file dataku.juga dan dengan perintah. list perhatikan berapa link yang terjadi?
 
+![Screenshot from 2024-09-11 09-16-32](https://github.com/user-attachments/assets/de4faffc-a566-4e04-b5b8-dc27adb6f9d4)
 
